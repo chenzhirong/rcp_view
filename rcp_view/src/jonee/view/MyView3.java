@@ -13,5 +13,6 @@ public class MyView3 extends ViewPart {
 
 	@Override
 	public void setFocus() {
+		System.out.println("jflkdjslkfjsdl123");
 	}
 }
