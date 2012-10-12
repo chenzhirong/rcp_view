@@ -67,5 +67,6 @@ public class MyView1 extends ViewPart {
 
 	@Override
 	public void setFocus() {
+		System.out.println("rongzai");
 	}
 }
